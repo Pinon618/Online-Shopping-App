@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "953105972639",
+    "firebase_url": "https://shopanbd-ecommerce-default-rtdb.firebaseio.com",
+    "project_id": "shopanbd-ecommerce",
+    "storage_bucket": "shopanbd-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953105972639:android:dd44ff27fb0b09e562d1aa",
+        "android_client_info": {
+          "package_name": "com.shopanbdecommerce.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953105972639-oo5poble28fvrvl8frtj94ak1htm9io7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopanbdecommerce.admin",
+            "certificate_hash": "56ec61c2024147f7ef4927286aaa884765b38c80"
+          }
+        },
+        {
+          "client_id": "953105972639-t2omdm15d54ff9hi69c10hss2ce5qhaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxjIAeC0OtEXhlRSnbRIvaLEHpZOBweDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953105972639-t2omdm15d54ff9hi69c10hss2ce5qhaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953105972639:android:4127f869051cd9eb62d1aa",
+        "android_client_info": {
+          "package_name": "com.shopanbdecommerce.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953105972639-s50nj249k0f1gsu44lotp0fspbhppuf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopanbdecommerce.customer",
+            "certificate_hash": "8364ed2eed82665eb11169c9788b2b327d2f1704"
+          }
+        },
+        {
+          "client_id": "953105972639-t2omdm15d54ff9hi69c10hss2ce5qhaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxjIAeC0OtEXhlRSnbRIvaLEHpZOBweDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953105972639-t2omdm15d54ff9hi69c10hss2ce5qhaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953105972639:android:a3ef8239a7838f5062d1aa",
+        "android_client_info": {
+          "package_name": "com.shopanbdecommerce.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953105972639-u3pgdvcd3v8bubhu3bfn7bdqje2q6jjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopanbdecommerce.vendor",
+            "certificate_hash": "6acd0a51fc6e92d44f57ef84b5e6740db2fbb6db"
+          }
+        },
+        {
+          "client_id": "953105972639-t2omdm15d54ff9hi69c10hss2ce5qhaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxjIAeC0OtEXhlRSnbRIvaLEHpZOBweDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953105972639-t2omdm15d54ff9hi69c10hss2ce5qhaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
